@@ -6,5 +6,6 @@ Play with a Full Pool Copy game of pool I found online, or check out the in prog
 This game is built in Unity and can be played easily from the UnityHub, but I am planning to host it on the web, and maybe eventually on mobile.
 
 More work needed on game dynamics theory. How to allow users to make a move while the ball is still in movement
+Might need to restart with different base
 
 Thanks!
